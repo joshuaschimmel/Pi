@@ -1,0 +1,4 @@
+__pycache__/
+*.pdf
+lcddriver.py
+i2c_lib.py
